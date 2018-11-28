@@ -2,7 +2,8 @@ package com.java.exampleapp;
 
 
 /**
- * Hello world!
+ * This is a reversal of a singular LinkedList 
+ * @author Christopher Stamp
  */
 public final class ReverseSingularlyLinkedList
  {
